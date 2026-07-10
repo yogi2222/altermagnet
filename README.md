@@ -53,8 +53,8 @@ All other elements are assigned `nn`.
 Clone this repository:
 
 ```bash
-git clone <https://github.com/yogi2222/Amcheck-automation>
-cd <Amcheck-automation>
+git clone <https://github.com/yogi2222/altermagnet>
+cd <altermagnet>
 ```
 
 
