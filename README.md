@@ -1,4 +1,4 @@
-# AMCheck Batch Altermagnetism Scanner
+# Batch Altermagnetism Scanner
 
 A Go command-line utility for running [`amcheck`](https://pypi.org/project/amcheck/) across a folder of VASP structure files and identifying files that return `Altermagnet? True` for at least one tested spin configuration.
 
